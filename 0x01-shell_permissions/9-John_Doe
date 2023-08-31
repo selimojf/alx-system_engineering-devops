@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod  753  hello
+git update-index --chmod=+x 9-John_Doe
